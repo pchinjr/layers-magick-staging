@@ -4,6 +4,7 @@ begin-app
 @static
 
 @http
-get /results
-get /image
 post /upload
+
+@aws
+region us-east-1
