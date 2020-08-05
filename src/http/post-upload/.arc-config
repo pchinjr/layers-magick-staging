@@ -5,5 +5,4 @@ runtime nodejs12.x
 # concurrency 1
 layers 
   arn:aws:lambda:us-east-1:175033217214:layer:graphicsmagick:2
-  arn:aws:serverlessrepo:us-east-1:145266761615:applications/image-magick-lambda-layer
 
